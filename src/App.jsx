@@ -9,6 +9,7 @@ function App() {
     <div>
      <h1>Application de gestion des étudiants</h1>
      <h2>Gestion des étudiants BTS DAI</h2>
+     <p>Projet React récupéré depuis GitHub</p>
       <p>Bienvenue dans notre application React</p>
       <button>Ajouter un étudiant</button>
 
